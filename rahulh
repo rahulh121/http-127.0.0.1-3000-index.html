@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+    
+   
+   <style>
+      </style> 
+</head>
+<body>
+    <hr>
+    <div class="container">
+        <div class="name">
+            <h1 class="rahul">Rahul H Kadam</h1>
+            <h3>Working as FullStack Developer in Crawlers Technologies. </h3> 
+            
+                <div class="cla">
+                    <img src="./66bca30b82e8d_download.jpeg"/>
+                    
+               </div>
+        </div>
+        <br>
+        <hr>
+        <div class="education">
+            <h2 class="edu">Education Details</h2>
+            <ul>
+                <li>Bachelor's of Engineering - East West Institute Of Technology[Mechanical Engineering].</li>
+            </br>
+                <li>Pre-University Education - Narayana Pu Collage[PCMC].</li>
+                <br>
+                <li>Class 10th - Holy Angel's High School[ICSC].</li>
+            </ul>
+        </div>
+        <br>
+        <hr>
+        <div class="workexperience">
+            <h2 class="ww">Work Experience</h2>
+            <ul>
+              <p>I'm currently working as a FullStack Web Developer at <span>Crawlers Technologies Pvt Ltd.</samp> </p> 
+            </ul>
+        </div>
+        <br>
+        <hr>
+        <div class="skill">
+            <h2 class="skills">Skills</h2>
+            <ul>
+              <li>Java</li>
+              <li>CSS</li>
+              <li>HTML</li>
+              <li>JavaScript</li>
+
+            </ul>
+        </div>
+        <br>
+        <hr>
+        <div class="project">
+            <h2 class="pro">Project</h2>
+            <h3>Tune Hub App</h3>
+            <ul>
+                <li>Developed Tune Hub, a music platform, utilizing Spring Boot for backend functionalities.</li>
+                <br>
+                <li>
+                    Designed and implemented restful APIs to handle user authentication, music search, and playlist management.</li>
+                    <br>
+                    
+                    <li>Integrated React.js for dynamic and responsive frontend interfaces, enhancing user experience.</li>
+                    <br>
+                    
+                    <li>Implemented features such as user authentication, music playback, and playlist creation to meet project requirements.</li>
+                    <br>
+                    
+                   <li>Utilized Spring Security for robust user authentication and authorization mechanisms.</li>
+                   <br> 
+                    
+                   <li>Leveraged Material-Ul library to enhance frontend design consistency and aesthetics.</li> 
+            </ul>
+        </div>
+        <br>
+        <hr>
+        <div class="intern">
+            <h2 class="internship">Internship</h2>
+            <ul>
+            <h3>KodNest Technologies,Bangalore</h3>
+            
+            <p>FullStack Web Development in Java, MySQL , FrontEnd Technologies.</p> 
+            </ul>
+        </div>
+        <br>
+        <hr>
+        <div class="Contact">
+            <h2 class="cc">Contact Me</h2>
+            <ul>
+              <li> Email:rahulhkadam77@gmail.com</li> <br>
+               <li> Ph no:9380464160</li> 
+            </ul>
+        </div>
+        <br>
+        <hr>
+        <div class="bb">
+        <div class="footer">
+            <footer>@Crawlers Technologies, Bangalore</footer>
+        </div>
+        </div>
+       
+    </div>
+    
+</body>
+</html>
